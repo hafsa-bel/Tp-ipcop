@@ -46,6 +46,12 @@ This is where you select the type of Red interface on IPCop.
 We select this option because we need our Red network interface card to obtain a dynamic IP address from a router or cable modem using DHCP. 
 And then we defined a range of ip addresses.
 
+After we finished the installation we access to the ipcop interface throught : **192.168.1.10:8443**
+
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/7b535aeb-fc69-4dbf-a981-3980662548b6">
+</p>
+
 
 ## Web Proxy :
 
