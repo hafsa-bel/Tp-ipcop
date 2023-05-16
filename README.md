@@ -119,10 +119,14 @@ In the case of avoiding logging Netbios Services on the Green Network, you can a
 
 - Lastly, the **External IPCop Access** section is used to control traffic from the Red interface to IPCop. This allows you to define rules and restrictions for incoming traffic from the external network to IPCop itself.
 
-In this case, we defined a rule that accept http request from the green to orange
+In this case, we defined certain rules :
+- The first one is to reject *https* traffic from the *green* network to the *red* network
+- Then the second one to allow *http* traffic from the *green* network to the *orange* network
+- The third one is to reject *ICMP* traffic from the *green* network to the *orange* network
+
 
 <p align="center">
-  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/3f18d63d-2fe8-44e9-9e92-5dcca23550e8">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/f031d46f-9aa2-453b-837b-473de6822add">
 </p>
 
 
