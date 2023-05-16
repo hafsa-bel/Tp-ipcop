@@ -153,7 +153,16 @@ As we can see we defined the start and end address (range), and we can see the m
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/aaf0d1a0-a4a6-43d5-8a3a-1071eac9526c"> 
  </p>
  
+ ## Time server:
  
+IPCop can be easily configured to synchronize its time with reliable timeservers on the Internet, ensuring accurate timekeeping. Furthermore, IPCop can also act as a time server, providing the synchronized time to other machines within your network. This feature helps to maintain consistent time across your network and ensures accurate timestamping for various network activities and log entries.
+
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/dc34d29d-dafa-4f53-9e31-e119f1a2039b"> 
+ </p>
+
+
+To activate the time server functionality in IPCop, you need to enable the "Obtain time from a Network Time Server" checkbox. Then, you can enter the complete name of the desired timeserver in the "Primary NTP Server" box. Additionally, you have the option to specify a secondary NTP server or even a tertiary NTP server if desired. This configuration allows IPCop to synchronize its time accurately, ensuring consistent and reliable timekeeping throughout the network.
 
 
 # Conclusion : 
