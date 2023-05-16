@@ -39,4 +39,12 @@ The initial line within the Settings box indicates the current status of the fil
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/a1010b24-6ab1-43ea-9ac2-3eb53401dcaf">
 </p>
 
+Before we blocked the domain names we can see that we can access the pages.
+
+<p align="center">
+  <img width="500" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/54a8d742-1396-41e4-a893-5c7478b74997">
+ <img width="500" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/143d7d32-8c7d-4875-b2d1-bfc50193851e">
+</p>
+
+
 
