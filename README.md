@@ -24,5 +24,9 @@ In here we banned the ip address
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/86e096c2-c019-48bc-935d-42dbeea76899">
 </p>
 
-And here
+And here's the result:
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/c556441a-7aa2-4357-ade2-c8f21e147f30">
+</p>
+
 
