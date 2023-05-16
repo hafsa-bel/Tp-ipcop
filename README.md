@@ -8,10 +8,16 @@ The primary role of **IPCop** is to control the flow of incoming and outgoing da
 
 # IPCOP'S installation :
 
-- ***Domain name selection***
+- ***Domain name selection***:
 Enter the domain name for this IPCop.
 <p align="center">
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/0c7529a8-5a8e-4f7b-b0c5-22e6cd9f0d16">
+</p>
+
+- ***Red interface selection***:
+This is where you select the type of Red interface on IPCop.
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/858fbcda-6266-49f4-a00f-3d305251cff2">
 </p>
 
 
