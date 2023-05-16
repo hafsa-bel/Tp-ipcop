@@ -20,6 +20,7 @@ This is where you select the type of Red interface on IPCop.
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/858fbcda-6266-49f4-a00f-3d305251cff2">
 </p>
 
+We select this option because we need our Red network interface card to obtain a dynamic IP address from a router or cable modem using DHCP.
 
 ## Web Proxy :
 
