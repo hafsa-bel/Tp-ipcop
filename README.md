@@ -73,6 +73,16 @@ In this case, we defined a rule that accept http request from the green to orang
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/23ff4cdb-de0f-418c-b2b3-d61019ffa292">
 </p>
 
+We set up an apache server in our DMZ zone and after we tested in the local machine it worked:
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/51e34d27-0020-45ec-bad4-22d01e496089">
+</p>
+
+After that we defined a rule that deny http request again, but this time we have an error message that we cannot access to the web page.
+
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/81d099dc-d979-46bb-a257-c26604f7924c">
+</p>
 
 
 
