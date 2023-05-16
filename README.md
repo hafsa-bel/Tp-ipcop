@@ -140,6 +140,10 @@ Then we're going to ping the *orange* network:
 <p align="center">
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/7adb2a5d-32cb-4a86-884a-44583c8ed23c">
 
+Here's an overview of our firewall logs:
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/41033214-9c9f-4224-bfb6-81f486dc4450"> 
+
 
 
 # Conclusion : 
