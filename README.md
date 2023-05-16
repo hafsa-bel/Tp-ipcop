@@ -29,4 +29,14 @@ And here's the result:
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/c556441a-7aa2-4357-ade2-c8f21e147f30">
 </p>
 
+## URL Filtering:
+
+The **URL filter** in IPCop enhances its capabilities by allowing the blocking of unwanted domains, URLs, and files. This feature utilizes the widely recognized squidGuard redirector. The graphical user interface of the URL filter provides access to all necessary settings, including squidGuard-compatible blacklists, as well as constraints based on time, category, and clients.
+
+The initial line within the Settings box indicates the current status of the filter service, indicating whether it is currently stopped or running.
+
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/a1010b24-6ab1-43ea-9ac2-3eb53401dcaf">
+</p>
+
 
