@@ -6,6 +6,15 @@
 
 The primary role of **IPCop** is to control the flow of incoming and outgoing data in the network by applying specific security rules. It allows for defining restrictions and access policies to prevent attacks from the internet, restrict access to certain services or websites, and safeguard sensitive data from intrusions.
 
+# Schema :
+
+ Here's an architecture of what we're going to do: 
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/a1c0323f-0995-4d4b-bb18-2fd289755a17">
+</p>
+
+
+
 # IPCOP'S installation :
 
 - ***Domain name selection***:
