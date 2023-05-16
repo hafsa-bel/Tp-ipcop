@@ -12,6 +12,8 @@ The primary role of **IPCop** is to control the flow of incoming and outgoing da
 
 In **IPCop**, a web proxy refers to a component or feature that acts as an intermediary between clients (such as web browsers) and web servers. It facilitates the retrieval of web content by clients by caching and managing web requests and responses.
 
+The initial line within the Settings box indicates the current status of the proxy server, indicating whether it is currently stopped or running.
+
 <p align="center">
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/20e2d3ae-a0c3-4127-97bb-c3c839e245fd">
 </p>
