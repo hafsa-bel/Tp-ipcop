@@ -8,6 +8,13 @@ The primary role of **IPCop** is to control the flow of incoming and outgoing da
 
 # IPCOP'S installation :
 
+- ***Domain name selection***
+Enter the domain name for this IPCop.
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/0c7529a8-5a8e-4f7b-b0c5-22e6cd9f0d16">
+</p>
+
+
 ## Web Proxy :
 
 In **IPCop**, a web proxy refers to a component or feature that acts as an intermediary between clients (such as web browsers) and web servers. It facilitates the retrieval of web content by clients by caching and managing web requests and responses.
