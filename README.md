@@ -53,5 +53,21 @@ After we blocked the domain names here's the result:
  <img width="500" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/d1a9ab24-2fa4-44f5-923a-35b247b95d82">
 </p>
 
+## Firewall Rules :
+
+- The **Outgoing Traffic** section in IPCop allows you to control the traffic flowing from internal networks to the external network (RED = Internet). If the policy is set to "half-open" or "closed," you need to create rules to explicitly allow the outgoing traffic you want. By default, outgoing traffic may be restricted or blocked, and the rules you create will determine which types of traffic are permitted from your internal networks to the Internet.
+
+- Regarding **IPCop access**, it is necessary to control traffic from internal networks to IPCop itself. If the policy is set to 'closed,' you will need to create rules for each IPCop service you want to use, including services like DHCP, DNS, and Time.
+
+In the case of avoiding logging Netbios Services on the Green Network, you can add a rule in the IPCop Access section.
+
+- To control traffic between internal networks, such as creating a pinhole between Orange and Green networks, you can use the **Internal Traffic** section. Please note that this section is visible only if you have a Blue and/or Orange interface.
+
+- **Port Forwarding** is a special feature that allows you to forward traffic from the external network (RED, Internet) to an internal network. In this case, the source interface is always Red, while the destination is divided into an 'intermediate' destination, which can be IPCop's external address or alias address, and a 'final' destination, referring to the internal server that needs to be accessible from the outside.
+
+- Lastly, the **External IPCop Access** section is used to control traffic from the Red interface to IPCop. This allows you to define rules and restrictions for incoming traffic from the external network to IPCop itself.
+
+
+
 
 
