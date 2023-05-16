@@ -18,9 +18,11 @@ The initial line within the Settings box indicates the current status of the pro
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/20e2d3ae-a0c3-4127-97bb-c3c839e245fd">
 </p>
 
-In here we banned the 
+In here we banned the ip address
 
 <p align="center">
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/86e096c2-c019-48bc-935d-42dbeea76899">
 </p>
+
+And here
 
