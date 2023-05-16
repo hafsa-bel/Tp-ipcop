@@ -14,13 +14,29 @@ Enter the domain name for this IPCop.
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/0c7529a8-5a8e-4f7b-b0c5-22e6cd9f0d16">
 </p>
 
+- ***Network card assignment***:
+Here we're going to select each interface and we're going to assign the ip addresses to each one.
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/3ed3b701-166d-4fd3-ac31-5d3d20879d89">
+</p>
+
+```diff
++ For the green interface we assigned the ip address : 192.168.1.10
+! For the orange interface we assigned the ip address : 192.168.2.10
+```
+
+![25](https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/dbba7e31-ef10-4221-850b-9b59c020c04d)
+![26](https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/e8f82193-659e-46bf-8c6a-94051c8bed24)
+
 - ***Red interface selection***:
 This is where you select the type of Red interface on IPCop.
 <p align="center">
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/858fbcda-6266-49f4-a00f-3d305251cff2">
 </p>
 
-We select this option because we need our Red network interface card to obtain a dynamic IP address from a router or cable modem using DHCP.
+We select this option because we need our Red network interface card to obtain a dynamic IP address from a router or cable modem using DHCP. 
+And then we defined a range of ip addresses.
+
 
 ## Web Proxy :
 
