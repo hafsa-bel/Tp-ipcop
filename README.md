@@ -139,11 +139,21 @@ Then we're going to ping the *orange* network:
 
 <p align="center">
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/7adb2a5d-32cb-4a86-884a-44583c8ed23c">
+</p>
 
 Here's an overview of our firewall logs:
 <p align="center">
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/41033214-9c9f-4224-bfb6-81f486dc4450"> 
+ </p>
 
+## DHCP configuration :
+
+As we can see we defined the start and end address (range), and we can see the machine connected with the ip address ***192.168.1.128***
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/aaf0d1a0-a4a6-43d5-8a3a-1071eac9526c"> 
+ </p>
+ 
+ 
 
 
 # Conclusion : 
