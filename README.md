@@ -13,6 +13,13 @@ The primary role of **IPCop** is to control the flow of incoming and outgoing da
   <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/a1c0323f-0995-4d4b-bb18-2fd289755a17">
 </p>
 
+- In the first machine *Windows* which is our local machine in the green zone we can see that the ip adress was assigned in the range.
+<p align="center">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/45144a20-7bff-435e-b7f6-ccf3f383504b">
+</p>
+
+
+
 
 
 # IPCOP'S installation :
