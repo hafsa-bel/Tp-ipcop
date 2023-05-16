@@ -43,7 +43,7 @@ Before we blocked the domain names we can see that we can access the pages.
 
 <p align="center">
   <img width="500" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/54a8d742-1396-41e4-a893-5c7478b74997">
- <img width="500" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/143d7d32-8c7d-4875-b2d1-bfc50193851e">
+ <img width="500" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/c7492237-689c-446e-b939-ffcc45120993)">
 </p>
 
 
