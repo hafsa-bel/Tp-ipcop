@@ -15,7 +15,7 @@ The primary role of **IPCop** is to control the flow of incoming and outgoing da
 
 - In the first machine *Windows* which is our local machine in the green zone we can see that the ip adress was assigned in the range.
 <p align="center">
-  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/45144a20-7bff-435e-b7f6-ccf3f383504b">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/1e50bc78-af38-41a0-8e76-09d97458d32b">
 </p>
 
 
