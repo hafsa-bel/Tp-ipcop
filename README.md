@@ -122,8 +122,9 @@ In the case of avoiding logging Netbios Services on the Green Network, you can a
 In this case, we defined a rule that accept http request from the green to orange
 
 <p align="center">
-  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/23ff4cdb-de0f-418c-b2b3-d61019ffa292">
+  <img width="1000" src="https://github.com/hafsa-bel/Tp-ipcop/assets/73228919/3f18d63d-2fe8-44e9-9e92-5dcca23550e8">
 </p>
+
 
 We set up an apache server in our DMZ zone and after we tested in the local machine it worked:
 <p align="center">
